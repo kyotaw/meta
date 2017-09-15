@@ -1,5 +1,4 @@
 .DS_Store
 dist/
 build/
-META-war/build/
-META-war/lib/
+target/
